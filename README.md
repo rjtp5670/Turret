@@ -1,8 +1,4 @@
-- Author: Designed by David Park (Park Huck Gu Se)
-- No Licesense
-- Contact: rjtp5670@gmail.com
-
-# Intro
+# Turret
 
 - Author: Designed by David Park (Park Huck Gu Se)
 - No Licesense
