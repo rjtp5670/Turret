@@ -7,14 +7,14 @@
 ## Intro
 
 This is my personal Arduino Project back in my college life.
-All the code may not be perfect for advanced user. But it's easy for rookies as the source is hard-coded.
+All the code may not be perfect for advanced users. But it's easy for rookies as the source is hard-coded.
 
 ![](/imgs/Turret/turret.gif)
 
-The laser module on a tower alarm a person detected within set range.
+The laser module on a tower alarms an invador detected within the set range.
 The main sensing compononet is P.I.R and sonar sensor. Servo motor will rotate and search the place near than target the object detected.
 
-The formula to get angle is the "Arctan" which converts a tan reversly.
+The formula to compute an down angle is the "Arctan" which converts a tan reversly.
 
 ![](/imgs/Turret/Arctan_Formula.jpg)
 
